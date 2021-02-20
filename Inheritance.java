@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Person {
+class Inheritance {
 	protected String firstName;
 	protected String lastName;
 	protected int idNumber;
